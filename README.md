@@ -37,7 +37,7 @@
   - [X] Verifique / valide frase e autor.
   - [X] Armazene localmente os autores para facilitar a digitação no formulário acima.
   - [X] Commit com a mensagem "Criado de frases"
-- [ ] 9. Publicar projeto no repositório do github
+- [X] 9. Publicar projeto no repositório do github
 
 **Lembretes**
 1. Telas devem usar componentes [shadcnui](https://ui.shadcn.com/)
