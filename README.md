@@ -20,23 +20,23 @@
   - [X] Modificar o título e o ícone da aplicação (`/src/app/layout.tsx`)
   - [X] Adicionar link para a página de login
   - [X] Commit com a mensagem "Modificado tela e layout inicial"
-- [ ] 7. Adicionar tela de autenticação
-  - [ ] Criar página `/src/app/auth/page.tsx`)
-  - [ ] Adicionar formulário de autenticação
-  - [ ] Use pelo menos 1 dos hooks de estado (useState, useReducer, useForm, etc)
-  - [ ] Verifique / valide apelido e senha
-  - [ ] Autentique usando o dummyjson (ver documentação em https://dummyjson.com/docs/auth)
-  - [ ] Armazene localmente os dados do usuário
-  - [ ] Redirecione para uma página de dashboard, ainda não criada `/dasboard`
-  - [ ] Commit com a mensagem "Criado o login"
-- [ ] 8. criar a tela de dashboard
-  - [ ] Criar página `/src/app/dashboard/page.tsx`)
-  - [ ] Verifique se usuário esta conectado (pode usar middleware.ts)
-  - [ ] Liste os _quotes_ (frases célebres, citações ou ditados) usando o dummyjson (ver documentação https://dummyjson.com/docs/quotes). Cada item deve ter a possibilidade de editar, ver formulário abaixo.
-  - [ ] Crie um formulário para seguir o ciclo de CRUD (criar, atualizar e apagar).
-  - [ ] Verifique / valide frase e autor.
-  - [ ] Armazene localmente os autores para facilitar a digitação no formulário acima.
-  - [ ] Commit com a mensagem "Criado de frases"
+- [X] 7. Adicionar tela de autenticação
+  - [X] Criar página `/src/app/auth/page.tsx`)
+  - [X] Adicionar formulário de autenticação
+  - [X] Use pelo menos 1 dos hooks de estado (useState, useReducer, useForm, etc)
+  - [X] Verifique / valide apelido e senha
+  - [X] Autentique usando o dummyjson (ver documentação em https://dummyjson.com/docs/auth)
+  - [X] Armazene localmente os dados do usuário
+  - [X] Redirecione para uma página de dashboard, ainda não criada `/dasboard`
+  - [X] Commit com a mensagem "Criado o login"
+- [X] 8. criar a tela de dashboard
+  - [X] Criar página `/src/app/dashboard/page.tsx`)
+  - [X] Verifique se usuário esta conectado (pode usar middleware.ts)
+  - [X] Liste os _quotes_ (frases célebres, citações ou ditados) usando o dummyjson (ver documentação https://dummyjson.com/docs/quotes). Cada item deve ter a possibilidade de editar, ver formulário abaixo.
+  - [X] Crie um formulário para seguir o ciclo de CRUD (criar, atualizar e apagar).
+  - [X] Verifique / valide frase e autor.
+  - [X] Armazene localmente os autores para facilitar a digitação no formulário acima.
+  - [X] Commit com a mensagem "Criado de frases"
 - [ ] 9. Publicar projeto no repositório do github
 
 **Lembretes**
